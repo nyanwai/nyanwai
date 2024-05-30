@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nyanwai
-- 🌱 I’m currently learning C#
+- 🌱 Bad Programmer
 - 📫 How to reach me @nyawai <- on Discord
 - 😄 Pronouns: fem/boy
 - ⚡ Fun fact: I'm not even real.
