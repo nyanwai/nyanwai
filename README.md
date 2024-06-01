@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nyanwai
+- 👋 Hi, I’m @nyawai
 - 🌱 Bad Programmer
 - 📫 How to reach me @nyawai <- on Discord
 - 😄 Pronouns: fem/boy
