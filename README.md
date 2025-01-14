@@ -30,7 +30,7 @@ C++        ███████
 ```
 
 <details>
-  <summary>🚀 Nyawtism Bot (Star Wars RPG Bot)</summary>
+  <summary>🚀 Nyawtism Discord Bot (Star Wars RPG)</summary>
 
   ### 🌟 **Features of Nyawtism Bot**
 
