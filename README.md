@@ -22,11 +22,11 @@
 Here’s a quick visual representation of my experience with various languages:
 
 ```plaintext
-HTML/CSS   ████████████
-PHP        ██████████████    
-C#         ████████████████████████
+HTML/CSS   ███████████
+PHP        ██████    
+C#         ████████████████████
 Python     ██████████████████████████    
-C++        ███████         
+C++        ███         
 ```
 
 <details>
