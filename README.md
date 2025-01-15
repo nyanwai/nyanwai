@@ -5,19 +5,8 @@
 - **Nationality**: Italian  
 - **Identity**: Femboy, Catboy  
 - **Discord**: @nyawai
-- **Languages**:  
-
-  - **HTML & CSS**  
-  - **PHP**  
-  - **C#**  
-  - **Python**  
-  - A bit of **C++**
-
----
 
 ## 💻 **Programming Skills**  
-
-Here’s a quick visual representation of my experience with various languages:
 
 ```plaintext
 HTML/CSS   ███████████
