@@ -5,9 +5,7 @@
 - **Nationality**: Italian  
 - **Identity**: Femboy, Catboy  
 - **Discord**: @nyawai
-- **Skills**:  
-
-  I have experience with the following languages and technologies:
+- **Languages**:  
 
   - **HTML & CSS**  
   - **PHP**  
