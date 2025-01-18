@@ -54,6 +54,7 @@ C++        ███
 
   - `/create_character` - Create your character and start your journey in the Star Wars galaxy.
   - `/profile` - View your character’s stats and information.
+  - `/change_name` - Change your character's name.
   - `/explore` - Engage in PvE combat and discover the current planet's features, enemies, and loot.
   - `/travel` - Travel between different planets in the galaxy.
   - `/shop` - Visit the in-game shop to purchase items, ships, and more.
