@@ -3,7 +3,6 @@
 - **Username**: Nyawai  
 - **Age**: 26  
 - **Nationality**: Italian  
-- **Identity**: Femboy, Catboy  
 - **Discord**: @nyawai
 
 ## 💻 **Programming Skills**  
