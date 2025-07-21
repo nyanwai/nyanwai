@@ -16,77 +16,90 @@ C++        ███
 ```
 
 <details>
-  <summary>🚀 Nyawtism Discord Bot (Star Wars RPG)</summary>
+  <summary>⚔️ Quantana Discord Bot (Fantasy RPG)</summary>
 
-  ### 🌟 **Features of Nyawtism Bot**
+  ### 🌟 **Features of Quantana**
 
-  - 🌍 **Multiple Planets to Explore**  
-    Travel across different planets, each with unique challenges, pre-made enemies, and loot opportunities.
+  - 🗺️ **Open World Exploration**  
+    Explore diverse locations, uncover secrets, and interact with the world around you.
 
-  - ⚔️ **PvP/PvE Combat System**  
-    Engage in exciting combat with pre-made enemies from various planets or challenge other players in PvP duels.
+  - 📜 **Story & Repeatable Quests**  
+    Engage in story-driven missions or grind daily repeatables for rewards.
 
-  - 🛠️ **Character Creation & Customization**  
-    Create your character from scratch and fully customize it during the creation process. Choose your playstyle based on how you manage your force balance between the Light and Dark sides.
+  - 🧍 **NPC Interactions**  
+    Talk to characters, visit shops, and learn lore from unique NPCs throughout the world.
 
-  - ⚖️ **Force Balance System**  
-    Your character's progression is influenced by your force balance, with different levels of Light or Dark side alignment. Your force balance determines how your character levels up and which abilities or strengths you gain.
+  - ⚔️ **PvP & PvE Combat**  
+    Fight enemies or duel other players in a stat-based combat system.
 
-  - 🛠️ **Weapon & Equipment Customization**  
-    Customize weapons and equipment with varying rarity levels to match your preferred playstyle. Craft and upgrade items to suit your unique combat strategy.
+  - 🎒 **Inventory and Loot System**  
+    Collect gear, manage your items, and find rare drops.
 
-  - 🚀 **Ship Buying and Trading**  
-    Purchase, customize, and manage ships for your journey across the galaxy.
+  - 🛠️ **Crafting System**  
+    Gather materials and craft powerful weapons, armor, and consumables.
 
-  - 💥 **Loot Rarity & Drops**  
-    Enemies drop items with different rarity levels. Use these items to enhance your equipment and character.
+  - 🎰 **Gambling & Mini-Games** *(WIP)*  
+    Try your luck with games of chance and high-risk, high-reward mechanics.
 
-  - 🎰 **Gambling Games**  
-    Test your luck with in-game gambling! Try the slot machine or crashout games for a chance to win big credits.
+  - 🎁 **Lootboxes**  
+    Open lootboxes for a surprise reward—gear, consumables, or gold.
 
-  - 🔄 **Regular Updates and Fixes**  
-    Based on community feedback, I continually balance and introduce new features to improve your experience.
+  - 📊 **Leveling & Stat Progression**  
+    Gain experience through battles and exploration, improve your stats, and customize your build.
 
-  ### 🧭 **How to Use Nyawtism Bot**
+  - 🎓 **Multiple Classes**  
+    Choose from 6 unique classes, each with their own strengths and abilities.
 
-  Here’s a list of available commands for **Nyawtism**:
-
-  - `/create_character` - Create your character and start your journey in the Star Wars galaxy.
-  - `/profile` - View your character’s stats and information.
-  - `/change_name` - Change your character's name.
-  - `/explore` - Engage in PvE combat and discover the current planet's features, enemies, and loot.
-  - `/travel` - Travel between different planets in the galaxy.
-  - `/shop` - Visit the in-game shop to purchase items, ships, and more.
-  - `/buy_ship` - Purchase a ship to travel the galaxy.
-  - `/duel` - Challenge other players or NPCs to a duel.
-  - `/crafting-info` - View information about available crafting recipes.
-  - `/craft-item` - Craft new items based on available recipes.
-  - `/give-credit` - Give in-game credits to other players.
-  - `/inventory` - View your inventory and use the items you own.
-  - `/sell-item` - Sell items from your inventory for in-game credits.
-  - `/slot` - Play the slot machine gambling game and try your luck to win credits.
-  - `/crashout` - Engage in the crashout gambling game and wager your credits for the chance to win big.
+  - 🏹 **120+ Items**  
+    Tons of equipment to collect, with new items added regularly.
 
   ---
 
-  ### 💡 **Play & Test Nyawtism Bot**
+  ### 🛠️ **How to Start Playing**
 
-  The bot is available for free! If you're interested in trying it out or testing its features, [here's the link for the server](https://discord.gg/7J6G4cWQne).
-
-  ---
-
-  ### 🔧 **Contributing to Nyawtism Bot**
-
-  If you want to help with testing or submit bug reports, join the official testing server! Use the feedback channel to share your thoughts and issues.  
-
-  [Join the Testing Server](https://discord.gg/7J6G4cWQne)
-
-  - Report bugs or issues.
-  - Suggest new features or mechanics.
+  - Type `/login` in your Discord server where Quantana is active.  
+  - Use the **AIO Dashboard** to navigate easily through your profile, equipment, and progress.
 
   ---
 
-  ## 📣 **Get in Touch**
+  ### 📈 **Character Progression**
 
-  If you have any questions or suggestions, don’t hesitate to reach out via Discord.
+  - **Level Up** – Earn XP by fighting, questing, and exploring to strengthen your character.
+  - **Stat Points** – Distribute points into strength, agility, defense, and more to customize your build.
+  - **Attribute Scaling** – Unlock passive bonuses and synergies based on your playstyle.
+
+  ---
+
+  ### 🛡️ **Gear & Equipment**
+
+  - **Gear System** – Equip weapons and armor that provide stat boosts and special effects.
+
+  ---
+
+  ### 🪓 **Gathering & Crafting**
+
+  - **Resource Collection** – Chop trees, mine ore, and gather herbs.
+  - **Crafting** – Forge weapons, brew potions, and craft valuable gear.
+
+  ---
+
+  ### 📜 **Quests & Dungeons**
+
+  - **Story & Side Quests** – Gain XP, gold, and unique items.
+  - **Dungeon Keys** – Unlock challenging boss areas with rare drops and high rewards.
+
+  ---
+
+  ### 🏪 **Marketplace**
+
+  - **Player Trading** – Trade items with others and earn gold in the open economy.
+
+  ---
+
+  ### 🧪 **Development Status**
+
+  Quantana is still in development but fully playable!  
+  Expect regular updates and feature additions. Occasional downtime may occur for updates.  
+  Join the development Discord for the latest news and community testing!
+
 </details>
