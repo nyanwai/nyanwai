@@ -5,7 +5,7 @@
 - **Nationality**: Italian  
 - **Discord**: @nyawai
 
-## 💻 **Programming Skills**  
+## 💻 **Mostly Used Languages**  
 
 ```plaintext
 HTML/CSS   ███████████
